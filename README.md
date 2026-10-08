@@ -23,7 +23,7 @@ The ten original PDF documents appear below in their existing sequence and with 
 | [Transient Expertise blueprint](cognitive_framework/05_Blueprint_Designing_the_Future_Through_Transient_Expertise.pdf) | `05_Blueprint_Designing_the_Future_Through_Transient_Expertise.pdf` |
 | [Broader implications](cognitive_framework/06_Implications_Transforming_Society_Through_Understanding.pdf) | `06_Implications_Transforming_Society_Through_Understanding.pdf` |
 | [First-person phenomenological account](cognitive_framework/07_Phenomenology_A_Day_Inside_the_Fog.pdf) | `07_Phenomenology_A_Day_Inside_the_Fog.pdf` |
-| [Big Five psychometric evaluation](cognitive_framework/08_Big_Five_Evaluation.pdf) | `08_Big_Five_Evaluation.pdf` |
+| [Big Five psychometric evaluation](https://github.com/The-Cognitive-Architect/the-janus-architecture-main/blob/main/cognitive_framework/08_Big_Five_Evaluation.pdf) *(currently hosted in original repository)* | `08_Big_Five_Evaluation.pdf` |
 
 ## Relationship to Janus
 
